@@ -1,4 +1,4 @@
-# CircuitPython and Rodeostat FeatherWing tutorl
+# CircuitPython and Rodeostat FeatherWing tutorial 
 
 Slides and examples for a tutorial on the CircuitPython and the Rodeostat FeatherWing. 
 
