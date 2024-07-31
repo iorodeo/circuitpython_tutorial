@@ -71,7 +71,7 @@ class ConstVoltDisplay:
         self.volt_label.anchored_position = xpos, ypos 
         ypos += ystep
 
-        # Create voltage label 
+        # Create current label 
         self.curr_label = label.Label(
                 font_14pt, 
                 text = f'{self.CURR_STR}',  
